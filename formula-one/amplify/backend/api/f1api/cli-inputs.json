@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/racers": {
+      "name": "/racers",
+      "lambdaFunction": "formulafunction",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

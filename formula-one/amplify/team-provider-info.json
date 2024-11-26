@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-formulaone-dev-56e1d-authRole",
+      "UnauthRoleArn": "arn:aws:iam::039612842988:role/amplify-formulaone-dev-56e1d-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::039612842988:role/amplify-formulaone-dev-56e1d-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-formulaone-dev-56e1d-deployment",
+      "UnauthRoleName": "amplify-formulaone-dev-56e1d-unauthRole",
+      "StackName": "amplify-formulaone-dev-56e1d",
+      "StackId": "arn:aws:cloudformation:us-east-1:039612842988:stack/amplify-formulaone-dev-56e1d/8d617490-9d55-11ef-89ab-0afff2f47e4f",
+      "AmplifyAppId": "ddeuznhqribty"
+    },
+    "categories": {
+      "function": {
+        "formulafunction": {
+          "deploymentBucketName": "amplify-formulaone-dev-56e1d-deployment",
+          "s3Key": "amplify-builds/formulafunction-4c5051316a347a506747-build.zip"
+        }
+      },
+      "api": {
+        "f1api": {}
+      }
+    }
+  }
+}
