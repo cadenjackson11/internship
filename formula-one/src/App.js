@@ -70,10 +70,10 @@ function App() {
                 <h5>{racer.driver_number}- {racer.full_name} races for {racer.team_name}</h5>
             </div>
           ))
-        }
+}
       </div>
       
-      <p className='text-center text-error'>All lineups up to date as of {month}/{day}/{year}</p>
+      <p className='text-center text-error'>All lineups up to date as of {month}/{day}/{year}!</p>
 
       </header>
     </div>
