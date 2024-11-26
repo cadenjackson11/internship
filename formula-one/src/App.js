@@ -61,7 +61,7 @@ function App() {
       <header>
 
       <div className='rounded-box p-3 m-2 bg-secondary'>
-        {/* slices out a new array from the existing on provided by the api */}]
+        {/* slices out a new array from the existing on provided by the api */}
         {/* maps through that function to display based on my calls below in the h5 element tag */}
         {/* repeats line after line until it meets my requirements */}
         {
